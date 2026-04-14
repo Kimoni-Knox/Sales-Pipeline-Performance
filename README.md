@@ -77,7 +77,7 @@ The dataset was structured using a relational model to support accurate analysis
 * The **sales_reps table** provides contextual information
 * A **stage mapping table** ensures correct stage ordering in visuals
 
-![Data Model](images/model_view.png)
+![Data Model](images/model_view.PNG)
 
 ---
 
